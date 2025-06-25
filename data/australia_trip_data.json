@@ -1,0 +1,196 @@
+
+[
+  {
+    "area": "布里斯本",
+    "locations": [
+      {
+        "name": "昆士蘭藝術館 (Queensland Art Gallery, QAG)",
+        "address": "Stanley Pl, South Brisbane QLD 4101, Australia",
+        "coordinates": { "lat": -27.4724407, "lng": 153.0185946 },
+        "place_id": "ChIJKxOVjudbkWsRmaaBfsl29ZM",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Julius Pizzeria", "address": "77 Grey St, South Brisbane QLD 4101" },
+            { "name": "Ramen Danbo", "address": "52 Merivale St, South Brisbane QLD 4101" },
+            { "name": "The Jetty South Bank", "address": "River Quay, Sidon St, South Brisbane QLD 4101" }
+          ],
+          "attractions": [
+            { "name": "現代藝術館 (GOMA)", "address": "Stanley Pl, South Brisbane QLD 4101" },
+            { "name": "南岸公園 (South Bank Parklands)", "address": "South Brisbane QLD 4101" },
+            { "name": "布里斯本摩天輪 (The Wheel of Brisbane)", "address": "Russell St, South Brisbane QLD 4101" }
+          ]
+        }
+      },
+      {
+        "name": "現代藝術館 (Gallery of Modern Art, GOMA)",
+        "address": "Stanley Pl, South Brisbane QLD 4101, Australia",
+        "coordinates": { "lat": -27.47056, "lng": 153.0171334 },
+        "place_id": "ChIJeT87OwZakWsRMni5L396BlU",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Julius Pizzeria", "address": "77 Grey St, South Brisbane QLD 4101" },
+            { "name": "Ramen Danbo", "address": "52 Merivale St, South Brisbane QLD 4101" },
+            { "name": "The Jetty South Bank", "address": "River Quay, Sidon St, South Brisbane QLD 4101" }
+          ],
+          "attractions": [
+            { "name": "昆士蘭藝術館 (QAG)", "address": "Stanley Pl, South Brisbane QLD 4101" },
+            { "name": "南岸公園 (South Bank Parklands)", "address": "South Brisbane QLD 4101" },
+            { "name": "布里斯本摩天輪 (The Wheel of Brisbane)", "address": "Russell St, South Brisbane QLD 4101" }
+          ]
+        }
+      },
+      {
+        "name": "Brisbane Makerspace",
+        "address": "Level 1/146 Wickham St, Fortitude Valley QLD 4006, Australia",
+        "coordinates": { "lat": -27.4588509, "lng": 153.0321952 },
+        "place_id": "ChIJy-feXvtbkWsReKCAGYJUHqM",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Gerard's Bistro", "address": "14/15 James St, Fortitude Valley QLD 4006" },
+            { "name": "SameSame", "address": "Ada Lane, 46 James St, Fortitude Valley QLD 4006" },
+            { "name": "Honto", "address": "Alden St, Fortitude Valley QLD 4006" }
+          ],
+          "attractions": [
+            { "name": "Chinatown Mall", "address": "33 Duncan St, Fortitude Valley QLD 4006" },
+            { "name": "James Street", "address": "James St, Fortitude Valley QLD 4006" },
+            { "name": "Judith Wright Centre of Contemporary Arts", "address": "420 Brunswick St, Fortitude Valley QLD 4006" }
+          ]
+        }
+      },
+      {
+        "name": "格里菲斯大學 (Griffith University, Nathan Campus)",
+        "address": "170 Kessels Rd, Nathan QLD 4111, Australia",
+        "coordinates": { "lat": -27.5530181, "lng": 153.0510796 },
+        "place_id": "ChIJ____T35BkWsR3tCdwKBuPbo",
+        "recommendations": {
+            "restaurants": [],
+            "attractions": []
+        }
+      },
+      {
+        "name": "Riverlife",
+        "address": "Naval Stores Kangaroo Point Cliffs Drive, Kangaroo Point QLD 4169, Australia",
+        "coordinates": { "lat": -27.4744632, "lng": 153.0344596 },
+        "place_id": "ChIJ2XZWrQNakWsRl6B1jIvVYec",
+        "recommendations": {
+            "restaurants": [],
+            "attractions": []
+        }
+      },
+      {
+        "name": "TAFE Queensland (South Bank Campus)",
+        "address": "60 Tribune St, South Brisbane QLD 4101, Australia",
+        "coordinates": { "lat": -27.4805313, "lng": 153.0209117 },
+        "place_id": "ChIJVTgJ9gtakWsRFOgrTligFZU",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Julius Pizzeria", "address": "77 Grey St, South Brisbane QLD 4101" },
+            { "name": "Ramen Danbo", "address": "52 Merivale St, South Brisbane QLD 4101" },
+            { "name": "The Jetty South Bank", "address": "River Quay, Sidon St, South Brisbane QLD 4101" }
+          ],
+          "attractions": [
+            { "name": "南岸公園 (South Bank Parklands)", "address": "South Brisbane QLD 4101" },
+            { "name": "昆士蘭表演藝術中心 (QPAC)", "address": "Cnr Grey and Melbourne Street, South Brisbane QLD 4101" },
+            { "name": "昆士蘭博物館 (Queensland Museum)", "address": "Grey St, South Brisbane QLD 4101" }
+          ]
+        }
+      },
+      {
+        "name": "南岸公園與文創假日市集 (The Collective Markets at South Bank)",
+        "address": "Little Stanley St, South Brisbane QLD 4101, Australia",
+        "coordinates": { "lat": -27.4790775, "lng": 153.0223771 },
+        "place_id": "ChIJT2Msjg5akWsRKSa6rTl9Xlw",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Julius Pizzeria", "address": "77 Grey St, South Brisbane QLD 4101" },
+            { "name": "Ramen Danbo", "address": "52 Merivale St, South Brisbane QLD 4101" },
+            { "name": "The Jetty South Bank", "address": "River Quay, Sidon St, South Brisbane QLD 4101" }
+          ],
+          "attractions": [
+            { "name": "布里斯本摩天輪 (The Wheel of Brisbane)", "address": "Russell St, South Brisbane QLD 4101" },
+            { "name": "Streets Beach", "address": "Stanley St Plaza, South Brisbane QLD 4101" },
+            { "name": "尼泊爾和平塔 (Nepalese Peace Pagoda)", "address": "Parklands Dr, South Brisbane QLD 4101" }
+          ]
+        }
+      },
+      {
+        "name": "貨櫃創意夜市 (Eat Street Northshore)",
+        "address": "221D MacArthur Ave, Hamilton QLD 4007, Australia",
+        "coordinates": { "lat": -27.4438961, "lng": 153.0797179 },
+        "place_id": "ChIJz2icig9ZkWsR567-MsUtn1o",
+        "recommendations": {
+            "restaurants": [],
+            "attractions": []
+        }
+      }
+    ,
+    {
+    "area": "黃金海岸",
+    "locations": [
+      {
+        "name": "HOTA (Home of the Arts)",
+        "address": "135 Bundall Rd, Surfers Paradise QLD 4217, Australia",
+        "coordinates": { "lat": -28.0014535, "lng": 153.4162592 },
+        "place_id": "ChIJSWsiRRUFkWsR3xcGCtXaVeM",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Palette Restaurant", "address": "135 Bundall Rd, Surfers Paradise QLD 4217" },
+            { "name": "The Exhibitionist Bar", "address": "135 Bundall Rd, Surfers Paradise QLD 4217" },
+            { "name": "Social Eating House", "address": "3 Oracle Bvd, Broadbeach QLD 4218" }
+          ],
+          "attractions": [
+            { "name": "Surfers Paradise Beach", "address": "Surfers Paradise QLD 4217" },
+            { "name": "Currumbin Wildlife Sanctuary", "address": "28 Tomewin St, Currumbin QLD 4223" },
+            { "name": "Whale Watching Tour", "address": "Various operators from Gold Coast Broadwater" }
+          ]
+        }
+      },
+      {
+        "name": "Marina Mirage",
+        "address": "Centre Management, 74 Seaworld Dr, Main Beach QLD 4217, Australia",
+        "coordinates": { "lat": -27.9685082, "lng": 153.4260462 },
+        "place_id": "ChIJ-6EDipAPkWsRygPe-Fv9SXU",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Omeros Bros Seafood Restaurant", "address": "74 Seaworld Dr, Main Beach QLD 4217" },
+            { "name": "Holy Ship Bar & Restaurant", "address": "74 Seaworld Dr, Main Beach QLD 4217" },
+            { "name": "Peter's Fish Market", "address": "120 Seaworld Dr, Main Beach QLD 4217" }
+          ],
+          "attractions": [
+            { "name": "Sea World", "address": "Seaworld Dr, Main Beach QLD 4217" },
+            { "name": "Federation Walk Coastal Reserve", "address": "Seaworld Dr, Main Beach QLD 4217" },
+            { "name": "Jet Boat Adventure Ride", "address": "74 Seaworld Dr, Main Beach QLD 4217" }
+          ]
+        }
+      },
+      {
+        "name": "澳洲黃金海岸電影世界 (Warner Bros. Movie World)",
+        "address": "Pacific Mwy, Oxenford QLD 4210, Australia",
+        "coordinates": { "lat": -27.906957, "lng": 153.3131103 },
+        "place_id": "ChIJOVFSTCYRkWsRgHEg11ujAg8",
+        "recommendations": {
+          "restaurants": [
+            { "name": "Dirty Harry Bar & Grill", "address": "Inside Movie World" },
+            { "name": "Westfield Coomera", "address": "103 Foxwell Rd, Coomera QLD 4209" },
+            { "name": "House Of Siam Thai Restaurant", "address": "3/137 Siganto Dr, Helensvale QLD 4212" }
+          ],
+          "attractions": [
+            { "name": "Wet'n'Wild Gold Coast", "address": "Pacific Mwy, Oxenford QLD 4210" },
+            { "name": "Australian Outback Spectacular", "address": "Pacific Mwy, Oxenford QLD 4210" },
+            { "name": "Topgolf Gold Coast", "address": "Cnr. Roadshow Way and Entertainment Road, Oxenford QLD 4210" }
+          ]
+        }
+      },
+      {
+        "name": "水上特斯拉DuffyBoat體驗地點",
+        "address": "Arm A, 60/70 Seaworld Dr, Main Beach QLD 4217, Australia",
+        "coordinates": { "lat": -27.9693162, "lng": 153.4257286 },
+        "place_id": "ChIJAwsWnpoPkWsRkSl8t7SW954",
+        "recommendations": {
+            "restaurants": [],
+            "attractions": []
+        }
+      }
+    ]
+  }
+]

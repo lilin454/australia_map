@@ -1,0 +1,130 @@
+[
+  {
+    "day": 1,
+    "date": "07/26",
+    "title": "出發前往布里斯本",
+    "description": "搭乘客機飛往澳洲布里斯本，開啟16天精彩旅程",
+    "locations": [],
+    "area": "交通"
+  },
+  {
+    "day": 2,
+    "date": "07/27",
+    "title": "城市行銷與藝術文化探索",
+    "description": "初探布里斯本的藝術文化，參觀昆士蘭藝術館和現代藝術館",
+    "locations": ["昆士蘭藝術館 (Queensland Art Gallery, QAG)", "現代藝術館 (Gallery of Modern Art, GOMA)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 3,
+    "date": "07/28",
+    "title": "創意產業見習工作坊",
+    "description": "在Brisbane Makerspace體驗創客文化，參與創意產業孵化器活動",
+    "locations": ["Brisbane Makerspace"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 4,
+    "date": "07/29",
+    "title": "創客工作坊深度體驗",
+    "description": "創客工作坊與新創交流平台，與當地知名創客及藝術設計專家交流",
+    "locations": ["Brisbane Makerspace"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 5,
+    "date": "07/30",
+    "title": "數位藝術與創意企業見習",
+    "description": "格里菲斯大學數位藝術課程，學習AR/VR技術應用",
+    "locations": ["格里菲斯大學 (Griffith University, Nathan Campus)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 6,
+    "date": "07/31",
+    "title": "視覺效果與內容創作",
+    "description": "在專業視覺效果實驗室學習電影特效、數位動畫製作技術",
+    "locations": ["格里菲斯大學 (Griffith University, Nathan Campus)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 7,
+    "date": "08/01",
+    "title": "創意與科技結合工作坊",
+    "description": "探索創意與科技結合，設計具有商業價值的視覺內容",
+    "locations": ["格里菲斯大學 (Griffith University, Nathan Campus)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 8,
+    "date": "08/02",
+    "title": "探索綠色旅遊城市",
+    "description": "前往黃金海岸，參訪HOTA藝術中心，體驗創意與美學結合",
+    "locations": ["HOTA (Home of the Arts)"],
+    "area": "黃金海岸"
+  },
+  {
+    "day": 9,
+    "date": "08/03",
+    "title": "特色建築與新能源體驗",
+    "description": "參訪Marina Mirage，體驗水上特斯拉DuffyBoat環保旅遊",
+    "locations": ["Marina Mirage", "水上特斯拉DuffyBoat體驗地點"],
+    "area": "黃金海岸"
+  },
+  {
+    "day": 10,
+    "date": "08/04",
+    "title": "電影世界創意體驗",
+    "description": "澳洲黃金海岸電影世界，結合娛樂與學習的創意體驗",
+    "locations": ["澳洲黃金海岸電影世界 (Warner Bros. Movie World)"],
+    "area": "黃金海岸"
+  },
+  {
+    "day": 11,
+    "date": "08/05",
+    "title": "影視製作與新創企業",
+    "description": "電影拍攝與後期製作工作坊，參訪Riverlife新創企業",
+    "locations": ["澳洲黃金海岸電影世界 (Warner Bros. Movie World)", "Riverlife"],
+    "area": "黃金海岸"
+  },
+  {
+    "day": 12,
+    "date": "08/06",
+    "title": "數位產業見習計畫",
+    "description": "TAFE Queensland數位產業見習，學習影視發展培訓",
+    "locations": ["TAFE Queensland (South Bank Campus)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 13,
+    "date": "08/07",
+    "title": "創意工作室開發專案",
+    "description": "Creative Studio Development Projects分組專案設計工作坊",
+    "locations": ["TAFE Queensland (South Bank Campus)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 14,
+    "date": "08/08",
+    "title": "動態影像設計培訓",
+    "description": "動態影像設計與視覺效果培訓，實地拍攝與製作",
+    "locations": ["TAFE Queensland (South Bank Campus)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 15,
+    "date": "08/09",
+    "title": "城市創意與文化探索",
+    "description": "南岸公園與文創假日市集，體驗貨櫃創意夜市",
+    "locations": ["南岸公園與文創假日市集 (The Collective Markets at South Bank)", "貨櫃創意夜市 (Eat Street Northshore)"],
+    "area": "布里斯本"
+  },
+  {
+    "day": 16,
+    "date": "08/10",
+    "title": "返程回國",
+    "description": "前往機場，搭機返回台灣，結束精彩的澳洲16天行程",
+    "locations": [],
+    "area": "交通"
+  }
+]
